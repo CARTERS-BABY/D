@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-image: url('bg1.jpg');
+    background-position: center;
+    background-size: cover;
+    }
+    h1 {
+    color: mediumturquoise;
+    }
+    #canvas {
+        background-color: white;
+        border: 10px crimson ridge ;
+    }
